@@ -1,3 +1,8 @@
+/*
+ *  Created on: 21.10.2022
+ *  Author:     Enno Stassny
+ *  Task:       Informatik_uebung_3
+ */
 
 import java.io.File;
 import java.io.FileNotFoundException;
